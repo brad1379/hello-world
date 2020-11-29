@@ -1,2 +1,2 @@
 # hello-world
-Simple hello world program 
+2 simple hello world programs using c++ and python
